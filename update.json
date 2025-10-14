@@ -3,45 +3,28 @@
         "device_id": "ba2a6539a5c3512b",
         "username": "Sourabh",
         "password": "Gamexv1",
-        "expirydate": "15-10-2025",
+        "expirydate": "15-10-2035",
         "Allowoffline": true
     },
     {
         "device_id": "158a0c0cc27f3bd1",
         "username": "ESHAN",
         "password": "ESHAN123",
-        "expirydate": "15-10-2025",
+        "expirydate": "15-10-2035",
         "Allowoffline": false
     },
-
-    {
-        "device_id": "c4d296a6eaf971fe",
-        "username": "SOURABH",
-        "password": "SOURABHV1",
-        "expirydate": "12-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "eda7a577b48999bd",
-        "username": "SOURABH",
-        "password": "GANESH",
-        "expirydate": "12-10-2025",
-        "Allowoffline": false
-    },
-
-
     {
         "device_id": "5a20db4139ac90a6",
         "username": "Sourabh57",
         "password": "Gamexv16",
-        "expirydate": "29-10-2025",
+        "expirydate": "29-10-2035",
         "Allowoffline": false
     },
     {
         "device_id": "ba2a6539a5c3512b",
-        "username": "GANESH56",
-        "password": "Ganesh16",
-        "expirydate": "15-10-2025",
+        "username": "SOURABH",
+        "password": "SOURABH",
+        "expirydate": "15-10-2035",
         "Allowoffline": false
     }
 ]
