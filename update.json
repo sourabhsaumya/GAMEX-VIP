@@ -26,12 +26,5 @@
         "password": "SOURABH",
         "expirydate": "15-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "ba2a6539a5c3512b",
-        "username": "SOURABH",
-        "password": "SOURABH",
-        "expirydate": "15-10-2035",
-        "Allowoffline": false
     }
 ]
