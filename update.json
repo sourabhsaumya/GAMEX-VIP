@@ -1,8 +1,4 @@
-__int64 __fastcall  (*orig_sub_3231A8)(int64_t a1, __int64 __fastcall  a2, int64_t *a3);
-__int64 __fastcall  sub_3231A8(int64_t a1, int64_t a2, int64_t *a3)
-{
-    return 1;//if zero than fix 10 year
-    
+
     [
     {
         "device_id": "11c7728f9fafb46b",
