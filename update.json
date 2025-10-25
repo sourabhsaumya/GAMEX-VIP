@@ -40,5 +40,12 @@
         "password": "Gamexv1",
         "expirydate": "3-10-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4c949a2e28704005",
+        "username": "Sourabh2",
+        "password": "Gamexv1",
+        "expirydate": "3-10-2035",
+        "Allowoffline": false
     }
 ]
